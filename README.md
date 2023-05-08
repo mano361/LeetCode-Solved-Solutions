@@ -1,1 +1,2 @@
 # LeetCode-Solved-Solutions
+This repository contains my solutions to various LeetCode problems, along with possible explanations and notes. Each solution is written in Python and includes the problem statement, my thought process, and the code implementation. I have organized the solutions by problem number and have included comments and explanations to help understand the thought process behind each solution. This repository serves as a record of my progress in algorithmic problem solving and demonstrates my proficiency in Python programming.
